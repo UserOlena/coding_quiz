@@ -7,7 +7,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
+* [Preview](#preview)
 * [Setup](#setup)
 * [Usage](#usage)
 * [User Story](#user-story)
@@ -38,7 +38,7 @@
 - JSON
 
 
-## Screenshots
+## Preview
 ![Example screenshot](./assets/img/demo.gif)
 
 
