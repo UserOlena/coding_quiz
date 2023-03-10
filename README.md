@@ -1,5 +1,5 @@
 # Code Quiz Challenge
-> This project was created as part of the Berkeley Codind Bootcamp week 4 challenge based on the [user story](#user-story) and [accetpance criteria](#acceptance-criteria)
+> This project was created as part of the Berkeley Codind Bootcamp week 4 challenge based on the [user story](#user-story) and [acceptance criteria](#acceptance-criteria)
 
 > Live demo [_here_](https://userolena.github.io/code-quiz-challenge-module-4/). 
 
