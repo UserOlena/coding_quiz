@@ -1,9 +1,11 @@
-# Code Quiz Challenge
-> This project was created as part of the Berkeley Codind Bootcamp week 4 challenge based on the [user story](#user-story) and [acceptance criteria](#acceptance-criteria)
+[![License: MIT license](https://img.shields.io/badge/License-MIT_license-success)](https://opensource.org/licenses/MIT)    
+![Project status](https://img.shields.io/badge/Status-Complete-seccess)
 
-> Live demo [_here_](https://userolena.github.io/code-quiz-challenge-module-4/). 
+# Coding Quiz
+This project was created as part of the Berkeley Codind Bootcamp week 4 challenge based on the [user story](#user-story) and [acceptance criteria](#acceptance-criteria)
+- Deployed application can be accesed at this [location](https://userolena.github.io/code-quiz-challenge-module-4/). 
 
-
+---
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -15,7 +17,7 @@
 * [Project Status](#project-status)
 * [License](#MIT)
 
-
+---
 ## General Information
 - Code Quiz offers a dropdown menu with a selection of three coding subjects (HTML, JavaScript, and CSS) to choose from.
 - For each subject, there are six questions presented with four answer options in a button format for each question.
@@ -29,7 +31,7 @@
 - If the user provides their initials, the quiz result is saved to the Local Storage.
 - The user can access the High Score Board at any time, even if the page is reloaded, unless they click the `Clear High Scores` button. If the user clicks this button, all data related to the Quiz Results will be deleted from the Local Storage.
 
-
+---
 ## Technologies Used
 - JavaScript
 - HTML5
@@ -37,19 +39,19 @@
 - localStorage API
 - JSON
 
-
+---
 ## Preview
 ![Example screenshot](./assets/img/demo.gif)
 
-
+---
 ## Setup
-No setup required. Web ready app. Link for the web app provided in the header of README.
+No setup required. Web ready app. Deployed application can be accessed at this [location](https://userolena.github.io/code-quiz-challenge-module-4/).
 
-
+---
 ## Usage
 The Code Quiz App is ready to use and does not require authentication. To start the quiz, simply click the [link](https://userolena.github.io/code-quiz-challenge-module-4/)
 
-
+---
 ## User Story
 ```
 AS A coding boot camp student
@@ -57,7 +59,7 @@ I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
 ```
 
-
+---
 ## Acceptance Criteria
 ```
 GIVEN I am taking a code quiz
@@ -73,10 +75,10 @@ WHEN the game is over
 THEN I can save my initials and score
 ```
 
-
+---
 ## Project Status
-Project is: _complete_
+Project is: complete
 
-
+---
 ## License
-This project is open source and available under the [MIT License]().
+This project is open source and available under the [MIT License](./LICENSE).
