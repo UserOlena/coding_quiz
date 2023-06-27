@@ -3,7 +3,7 @@
 
 # Coding Quiz
 This project was created as part of the Berkeley Codind Bootcamp week 4 challenge based on the [user story](#user-story) and [acceptance criteria](#acceptance-criteria)
-- Deployed application can be accesed at this [location](https://userolena.github.io/code-quiz-challenge-module-4/). 
+- Deployed application can be accesed at this [location](https://userolena.github.io/coding_quiz/). 
 
 ---
 ## Table of Contents
@@ -45,11 +45,11 @@ This project was created as part of the Berkeley Codind Bootcamp week 4 challeng
 
 ---
 ## Setup
-No setup required. Web ready app. Deployed application can be accessed at this [location](https://userolena.github.io/code-quiz-challenge-module-4/).
+No setup required. Web ready app. Deployed application can be accessed at this [location](https://userolena.github.io/coding_quiz/).
 
 ---
 ## Usage
-The Code Quiz App is ready to use and does not require authentication. To start the quiz, simply click the [link](https://userolena.github.io/code-quiz-challenge-module-4/)
+The Code Quiz App is ready to use and does not require authentication. To start the quiz, simply click the [link](https://userolena.github.io/coding_quiz/)
 
 ---
 ## User Story
